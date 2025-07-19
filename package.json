@@ -1,6 +1,7 @@
 {
   "name": "rotatinglink",
   "version": "1.0.0",
+  "description": "A random link redirector with Telegram alerts.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
